@@ -19,7 +19,7 @@ namespace knowledgeConsole
             }
             else
             {
-                Console.WriteLine("You've chosen path A!");
+                Console.WriteLine("You've chosen path A the path of a champion!");
             }
 
 
