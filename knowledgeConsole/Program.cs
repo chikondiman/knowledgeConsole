@@ -26,6 +26,27 @@ namespace knowledgeConsole
 
         }
 
+        static void Simulation()
+        {
+            string input = "";
+            Console.WriteLine("Hola, buenas noches! Gracias para venir");
+            Console.WriteLine("Que te gusta hacer para dinero?");
+            Console.WriteLine("(A)Bailar, (B)Correr");
+            input = Console.ReadLine();
+            input = input.ToUpper();
+            if (input == "A")
+            {
+                Console.WriteLine("Si, me gustan muchos tus videos por youtube. ");
+            }
+            else
+            {
+                Console.WriteLine("Mentiroso, ya sabemos que eres un bailarín");
+            }
+
+
+
+        }
+
         static void Main(string[] args)
         {
 
@@ -44,7 +65,7 @@ namespace knowledgeConsole
             Console.WriteLine("dollars: " + dollars);
             Console.WriteLine("----------------------------------------");
 
-            Choice();
+            Simulation();
         }
 
    

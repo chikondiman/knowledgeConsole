@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{C389F9B5-AEE7-4231-B3A9-DF0CF065D670}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="knowledgeConsole/Program.cs">
     <Files>
-      <File FileName="knowledgeConsole/Program.cs" Line="14" Column="23" />
-      <File FileName="../../CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/Program.cs" Line="69" Column="14" />
+      <File FileName="knowledgeConsole/Program.cs" Line="34" Column="37" />
+      <File FileName="../../CHIKONDIMAN/KNOWLEDGE/KNOWLEDGE/KNOWLEDGE/Program.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.knowledgeConsole PreferredExecutionTarget="MonoDevelop.Default" />
