@@ -4,7 +4,6 @@
 /Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/bin/Debug/net5.0/knowledgeConsole.dll
 /Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/bin/Debug/net5.0/ref/knowledgeConsole.dll
 /Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/bin/Debug/net5.0/knowledgeConsole.pdb
-/Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/obj/Debug/net5.0/knowledgeConsole.csprojAssemblyReference.cache
 /Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/obj/Debug/net5.0/knowledgeConsole.GeneratedMSBuildEditorConfig.editorconfig
 /Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/obj/Debug/net5.0/knowledgeConsole.AssemblyInfoInputs.cache
 /Users/chikondikamvazaana/Projects/knowledgeConsole/knowledgeConsole/obj/Debug/net5.0/knowledgeConsole.AssemblyInfo.cs

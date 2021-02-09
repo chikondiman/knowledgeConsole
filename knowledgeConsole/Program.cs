@@ -28,6 +28,7 @@ namespace knowledgeConsole
 
         static void Simulation()
         {
+            int simPoints = 0;
             string input = "";
             Console.WriteLine("Hola, buenas noches! Gracias para venir");
             Console.WriteLine("Que te gusta hacer para dinero?");
@@ -36,14 +37,36 @@ namespace knowledgeConsole
             input = input.ToUpper();
             if (input == "A")
             {
-                Console.WriteLine("Si, me gustan muchos tus videos por youtube. ");
+                simPoints = simPoints + 1;
+             
+                Console.WriteLine("Si, me gustan muchos tus videos por youtube! [+]" + simPoints);
+            
+                
             }
             else
             {
-                Console.WriteLine("Mentiroso, ya sabemos que eres un bailarín");
+                simPoints = simPoints - 1;
+                Console.WriteLine("Mentiroso, ya sabemos que eres un bailarín" + simPoints);
             }
 
 
+            Console.WriteLine("Que te gusta hacer para dinero?");
+            Console.WriteLine("(A)Bailar, (B)Correr");
+            input = Console.ReadLine();
+            input = input.ToUpper();
+            if (input == "A")
+            {
+                simPoints = simPoints + 1;
+
+                Console.WriteLine("Si, me gustan muchos tus videos por youtube! [+]" + simPoints);
+
+
+            }
+            else
+            {
+                simPoints = simPoints - 1;
+                Console.WriteLine("Mentiroso, ya sabemos que eres un bailarín" + simPoints);
+            }
 
         }
 
